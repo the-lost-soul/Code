@@ -1,0 +1,7 @@
+Question Link -- 
+LeetCode -- https://leetcode.com/problems/copy-list-with-random-pointer/
+GFG -- https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
+
+IDE--GFG--
+1. Double Traversal -- https://ide.geeksforgeeks.org/jtSLE9GbDG
+2. SIngle Traversal -- 

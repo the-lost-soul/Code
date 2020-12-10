@@ -1,0 +1,1 @@
+- [ ] Learn to access all 8 directions using dir = [(1, 0), (-1, 0), (1, 1), (-1, -1), (1, -1), (-1, 1), (0, 1), (0, -1)]

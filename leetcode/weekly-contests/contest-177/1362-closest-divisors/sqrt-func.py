@@ -1,0 +1,9 @@
+class Solution(object):
+    def closestDivisors(self, num):
+        for i in xrange(int((num + 2)**0.5) , 0 , -1) :
+            if (num + 1)%i == 0 :
+                return [i , (num + 1)//i] 
+            if (num + 2)%i == 0 :
+                return [i , (num + 2)//i]
+        return [] 
+        
