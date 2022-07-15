@@ -24,6 +24,8 @@ class Solution
             int c = pr.getValue() ;
             // To skip those cells which were already visited but
             // are still present in stack .
+            // Eg -- [[1 , 1] , [1 , 1]] -- If we dont add this if
+            // statement , then max area will be 5 instead of 4 .
             if(visited[r][c])
                 continue ;
             visited[r][c] = true ;
