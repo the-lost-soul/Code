@@ -6,12 +6,12 @@
 
 * Solved :
 
-    - [x] 1260. Shift 2D Grid
-    - [x] 1261. Find Elements in a Contaminated Binary Tree
+    - [X] 1260. Shift 2D Grid
+    - [X] 1261. Find Elements in a Contaminated Binary Tree
 
 * Upsolve :
  
-    - [x] 1262. Greatest Sum Divisible by Three
+    - [X] 1262. Greatest Sum Divisible by Three
     - [ ] 1263. Minimum Moves to Move a Box to Their Target Location
 
 * Comments :
