@@ -6,12 +6,12 @@
 
 * Solved :
 
-    * [x] 1290. Convert Binary Number in a Linked List to Integer
+    * [X] 1290. Convert Binary Number in a Linked List to Integer
 
 * Upsolve :
 
-  - [x] 1291. Sequential Digits
-  - [ ] 1292
-  - [ ] 1293
+    - [X] 1291. Sequential Digits
+    - [ ] 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+    - [ ] 1293. Shortest Path in a Grid with Obstacles Elimination
 
 * Comments :
